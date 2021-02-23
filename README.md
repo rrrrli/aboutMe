@@ -10,9 +10,6 @@ I am a bilingual learner and researcher seeking research and internship opportun
 
 [Curriculum Vitae](https://github.com/rrrrli/aboutMe/blob/main/cv.md)
 
-[My Coursework - Psychology]
+[My Coursework - Psychology](https://github.com/rrrrli/aboutMe/blob/main/psych_courses.md)
 
-[My Coursework - Data Science]
-
-[中文] 
-
+[My Coursework - Data Science](https://github.com/rrrrli/aboutMe/blob/main/data_courses.md)
