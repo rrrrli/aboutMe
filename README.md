@@ -6,7 +6,7 @@ Hello! My name is Rachel Li and I am a 2nd year Psychology major at William & Ma
 
 I am a bilingual learner and researcher seeking research and internship opportunities in both English and Chinese environments! 
 
-Explore these pages:
+**Explore these pages**:
 
 [Curriculum Vitae](https://github.com/rrrrli/aboutMe/blob/main/cv.md)
 
