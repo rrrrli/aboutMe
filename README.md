@@ -8,7 +8,7 @@ I am a bilingual learner and researcher seeking research and internship opportun
 
 Explore these pages:
 
-[Curriculum Vitae]
+[Curriculum Vitae]https://github.com/rrrrli/aboutMe/blob/main/cv.md
 
 [My Coursework - Psychology]
 
